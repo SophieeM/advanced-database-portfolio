@@ -16,7 +16,7 @@ Course: MIT 8103 – Advanced Database Systems
 
 
 
-Project: Kudi Bank Database Management System
+Project: Kudi Trust Bank Database Management System
 
 
 
@@ -38,7 +38,7 @@ This repository contains my practical coursework and portfolio activities for th
 
 
 
-The project uses Kudi Bank, a simulated financial institution, as a case study to explore advanced database concepts and their practical applications in banking operations.
+The project uses Kudi Trust Bank, a simulated financial institution, as a case study to explore advanced database concepts and their practical applications in banking operations.
 
 
 
@@ -46,11 +46,11 @@ The database project focuses on managing customer records, bank accounts, and fi
 
 
 
-###### Case Study: Kudi Bank
+###### Case Study: Kudi Trust Bank
 
 
 
-Kudi Bank is a simulated banking institution that provides basic banking services, which include:
+Kudi Trust Bank is a simulated banking institution that provides basic banking services, which include:
 
 
 
@@ -105,7 +105,7 @@ The coursework is organized into five portfolio activities:
 * GitHub Desktop
 * Google
 * YouTube
-* AI (Gemini, Chatgpt)
+* AI Tools (Gemini, Copilot, Claude)
 
 
 
