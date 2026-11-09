@@ -1,129 +1,346 @@
 ### Advanced Database Systems Portfolio
 
+### Course Information
 
+### 
 
-##### Kudi Bank Database Management System
+### Course: MIT 8103 – Advanced Database Systems
 
+### Institution: Miva Open University
 
+### Student: Safiyyah Mohammed
 
+### Student id: 301894893
 
+### Case Study: Kudi Trust Bank Database Management System
 
-###### Cousre Information
+### 
 
+### Project Overview
 
+### 
 
-Course: MIT 8103 – Advanced Database Systems
+### This repository presents a comprehensive portfolio for the MIT 8103 Advanced Database Systems course. It demonstrates the practical application of database concepts through the design, implementation, management, and analysis of a banking database system for Kudi Trust Bank.
 
+### 
 
+### The project examines both relational and NoSQL database technologies, addressing core topics such as database design, SQL query processing, transaction management, distributed databases, and cloud-based database architectures.
 
-Project: Kudi Trust Bank Database Management System
+### 
 
+### CASE STUDY: KUDI TRUST BANK
 
+### 
 
-Student: Safiyyah Mohammed
+### Kudi Trust Bank is a simulated financial institution used as the primary case study throughout the portfolio. The system supports:
 
+### 
 
+### \* Customer registration and management
 
-Institution: Miva Open University
+### \* Bank account management
 
+### \* Deposits and withdrawals
 
+### \* Fund transfers
 
+### \* Transaction tracking and auditing
 
+### \* Customer activity monitoring
 
-###### &#x20;Project Overview
+### \* Distributed and cloud database operations
 
+### 
 
+### Portfolio Structure
 
-This repository contains my practical coursework and portfolio activities for the MIT 8103 – Advanced Database Systems course.
+### 
 
+### Portfolio 1: Database Design
 
+### 
 
-The project uses Kudi Trust Bank, a simulated financial institution, as a case study to explore advanced database concepts and their practical applications in banking operations.
+### This section focuses on the design and development of the relational database system.
 
+### 
 
+### Topics Covered
 
-The database project focuses on managing customer records, bank accounts, and financial transactions while applying database design principles, query processing, transaction management, NoSQL technologies, and distributed database concepts.
+### 
 
+### \* Entity Relationship Diagram (ERD)
 
+### \* Database schema design
 
-###### Case Study: Kudi Trust Bank
+### \* Primary and foreign keys
 
+### \* Constraints
 
+### \* Normalization (up to 3NF)
 
-Kudi Trust Bank is a simulated banking institution that provides basic banking services, which include:
+### \* Relational database implementation
 
+### 
 
+### Technologies
 
-\- Customer registration and management.
+### 
 
-\- Bank account management.
+### \* MySQL
 
-\- Deposits and withdrawals.
+### \* Relational Database Design
 
-\- Transfers between accounts.
+### 
 
-\- Transaction record management.
+### 
 
+### Portfolio 2: SQL Query Processing
 
+### 
 
-The database is designed to support data consistency, integrity, efficient retrieval, and reliable transaction processing.
+### This section demonstrates the use of SQL for data retrieval, manipulation, and optimization.
 
-###### 
+### 
 
-###### Portfolio Structure
+### Topics Covered
 
+### 
 
+### \* SQL queries
 
-The coursework is organized into five portfolio activities:
+### \* JOIN operations
 
+### \* Aggregate functions
 
+### \* Views
 
-| Portfolio | Description |
+### \* Indexes
 
+### \* Query optimization
 
+### 
 
-| Portfolio 1 | Database Design and Modelling |
+### Technologies
 
-| Portfolio 2 | Query Processing and Optimisation |
+### 
 
-| Portfolio 3 | Transactions and Concurrency |
+### \* MySQL
 
-| Portfolio 4 | NoSQL and Advanced Data Models |
+### \* SQL
 
-| Portfolio 5 | Distributed and Cloud Database Exercise |
+### 
 
-###### 
+### Portfolio 3: Transaction Management
 
-###### Technologies and Tools
+### 
 
+### This section examines transaction processing and data integrity within banking systems.
 
+### 
 
-* MySQL Server
-* MySQL Workbench
-* SQL
-* GitHub
-* GitHub Desktop
-* Google
-* YouTube
-* AI Tools (Gemini, Copilot, Claude)
+### Topics Covered
 
+### 
 
+### \* ACID properties
 
-###### Repository Contents
+### \* COMMIT operations
 
+### \* ROLLBACK operations
 
+### \* Transaction logging
 
-Each portfolio folder contains relevant project documentation, SQL scripts, database models, practical exercises, and supporting evidence.
+### \* Concurrency control
 
+### \* Data consistency
 
+### 
 
+### Technologies
 
+### 
 
-###### Project Status
+### \* MySQL
 
+### \* Transaction Processing
 
+### 
 
-This repository is being developed progressively as the five portfolio activities are completed.
+### 
+
+### Portfolio 4: NoSQL Databases
+
+### 
+
+### This section introduces document-oriented databases using MongoDB.
+
+### 
+
+### Topics Covered
+
+### 
+
+### \* NoSQL database concepts
+
+### \* MongoDB architecture
+
+### \* Document modelling
+
+### \* CRUD operations
+
+### \* Aggregation framework
+
+### \* Comparative analysis of SQL and NoSQL systems
+
+### 
+
+### Technologies
+
+### 
+
+### \* MongoDB
+
+### \* MongoDB Compass
+
+### 
+
+### 
+
+### Portfolio 5: Distributed and Cloud Databases
+
+### 
+
+### This section examines enterprise database deployment strategies.
+
+### 
+
+### Topics Covered
+
+### 
+
+### \* Distributed databases
+
+### \* Data replication
+
+### \* Database partitioning (sharding)
+
+### \* Cloud databases
+
+### \* Disaster recovery
+
+### \* Business continuity planning
+
+### \* Database security architecture
+
+### 
+
+### Technologies
+
+### 
+
+### \* Distributed Database Concepts
+
+### \* Cloud Database Architecture
+
+### 
+
+### 
+
+### Technologies Used
+
+### 
+
+### Relational Database Technologies
+
+### 
+
+### \* MySQL
+
+### \* SQL
+
+### 
+
+### NoSQL Technologies
+
+### 
+
+### \* MongoDB
+
+### \* MongoDB Compass
+
+### 
+
+### Documentation Tools
+
+### 
+
+### \* Microsoft Word
+
+### \* GitHub
+
+### 
+
+### 
+
+### Learning Outcomes
+
+### 
+
+### The following competencies were developed through this project:
+
+### 
+
+### \* Database modelling and design
+
+### \* SQL query development and optimization
+
+### \* Transaction management
+
+### \* Database security and integrity
+
+### \* NoSQL database implementation
+
+### \* Distributed database architecture
+
+### \* Cloud database deployment concepts
+
+### \* Disaster recovery and business continuity planning
+
+### 
+
+### 
+
+### Repository Structure
+
+### 
+
+### advanced-database-portfolio
+
+### │
+
+### ├── portfolio1-database-design
+
+### ├── portfolio2-sql-query-processing
+
+### ├── portfolio3-transaction-management
+
+### ├── portfolio4-nosql-databases
+
+### └── portfolio5-distributed-cloud-databases
+
+### 
+
+### 
+
+### 
+
+### 
+
+### Conclusion
+
+### 
+
+### This portfolio demonstrates the practical application of advanced database concepts through the design and implementation of the Kudi Trust Bank Database Management System. The project integrates relational and NoSQL database technologies and addresses contemporary challenges in database management, scalability, reliability, security, and cloud computing.
 
 
 
